@@ -1,0 +1,6 @@
+name: system.WebSocket
+author: DevTeXon
+version: 1.0 (MC1.15.1)
+main: system.WebSocket
+commands:
+  register:
